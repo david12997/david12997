@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-#### Software Analyst and Developer with 2 years of experience in the
-design, implementation and maintenance of software solutions
-and user interface design. Able to work as a team, proactive and with solid
-knowledge of programming, problem solving and design
-of graphical interfaces.
+#### Software Analyst and Developer with 2 years of experience in the design, implementation and maintenance of software solutions and user interface design. Able to work as a team, proactive and with solid knowledge of programming, problem solving and designof graphical interfaces.
 <!--
 **david12997/david12997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
